@@ -12,11 +12,13 @@
 
 /* -------- COLOR & FONT SETTINGS (edit these first!) -------- */
 :root {
-  --color-bg:      #23a158;   /* page background        */
-  --color-text:    #1a1a1a;   /* main text color        */
-  --color-accent:  #01050f;   /* links & buttons        */
-  --color-muted:   #6b7280;   /* softer/secondary text  */
-  --color-card:    #f3f4f6;   /* project card background */
+      --color-bg: #060922;
+    --color-text: #f0e9e9;
+    --color-accent: #1a409e;
+    --color-muted: #ffffff;
+    --color-card: #1a409e;
+    --font-main: 'Segoe UI', system-ui, -apple-system, sans-serif;
+    --max-width: 900px;
 
   --font-main: 'Segoe UI', system-ui, -apple-system, sans-serif;
   --max-width: 900px;         /* how wide the content gets */
